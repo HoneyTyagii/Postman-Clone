@@ -5,7 +5,3 @@ A simple postman clone built with React
 - semantic ui react
 - axios
 - code mirror
-
-# Deployed Application 
-https://eddrichjanzzen.github.io/postman-clone-react/
-
